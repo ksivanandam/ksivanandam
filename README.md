@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kaylene Sivanandam
-- 👀 I’m interested in Front-end development, UX Research and Data Analytics
+- 👀 I’m interested in Product design, UX Research and RPA
 - 🌱 I’m currently studying Masters of Information Technology (Human-Centered Design)
 - 📫 How to reach me kaylene.sivanandam@gmail.com
